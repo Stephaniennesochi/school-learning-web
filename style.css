@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: deeppink;
+    font-weight: 900;
+    font-size: 300%;
+
+}
+.pot{
+    position: absolute;
+    left: 550px;
+    top: 220px;
+    color:white;
+}
+a{
+    word-spacing: 50px;
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
+
+    
+}
+button{
+    background-color: bisque;
+    color: black;
+    height: 60px;
+    width: 180px;
+    position: absolute;
+    top: 430px;
+    left: 820px;
+    font-size: medium;
+    font-weight: 600;
+}
+.class{
+    position: fixed;
+    left: 0px; top: 0px;
+    height: 100px;
+    width: 150px;
+}
+#lite{
+ position: relative;
+ top: 390px;
+}
+.origin{
+    position: absolute;
+    top: 152%;
+    color: white;
+}
+.but{
+    position: relative;
+    top: 390px;
+    
+}
+.image{
+    position: relative;
+    top: 360px;
+    height: 220px;
+    width: 400px;
+    left: 72%;
+    
+    
+}
+.don{
+    position: absolute;
+    left: 20px;
+    height: 300px;
+    width: 500px;
+    top: 200px;
+}
